@@ -11,4 +11,8 @@ Box should have a screws with hidden nuts with M4 screw-thread.
 
 Соединия гильзованых наконечников располагаются в 2 ряда. Это позволило сократить размеры коробки. Такая коробка подойдет для стандартного подключения трехфазного мотора к контроллеру - 3 фазы на мотор и 2 провода питания контроллера. Использовались винты типа имбус под шестигранник с резьбой М4. Внутри коробки предусмотрены места под закладные гайки к этим винтам.
 
+![Video](https://github.com/antonteplov/3DPrintedTerminalBlock6x16x5/blob/main/video_2021-06-29_13-20-20.mp4)
+
 ![](https://github.com/antonteplov/3DPrintedTerminalBlock6x16x5/blob/2210ca69487395978d49f8b655f377f857cf5a94/photo_2021-06-29_13-17-40.jpg)
+![](https://github.com/antonteplov/3DPrintedTerminalBlock6x16x5/blob/main/photo_2021-06-29_13-19-28.jpg)
+
